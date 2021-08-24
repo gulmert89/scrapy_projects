@@ -1,0 +1,19 @@
+[
+{
+    "page_1":{
+        "Albert Einstein": ["adulthood", "success", "value"],
+        "J.K. Rowling": ["abilities", "choices"],
+        "Jane Austen": ["aliteracy", "books", "classic", "humor"],
+        "Marilyn Monroe": ["be-yourself", "inspirational"],
+        "André Gide": ["life", "love"],
+        "Thomas A. Edison": ["edison", "failure", "inspirational", "paraphrased"],
+        "Eleanor Roosevelt": ["misattributed-eleanor-roosevelt"],
+        "Steve Martin": ["humor", "obvious", "simile"]
+    }
+},
+
+{"page_2": {"Marilyn Monroe": ["friends", "heartbreak", "inspirational", "life", "love", "sisters"], "J.K. Rowling": ["courage", "friends"], "Albert Einstein": ["simplicity", "understand"], "Bob Marley": ["love"], "Dr. Seuss": ["fantasy"], "Douglas Adams": ["life", "navigation"], "Elie Wiesel": ["activism", "apathy", "hate", "indifference", "inspirational", "love", "opposite", "philosophy"], "Friedrich Nietzsche": ["friendship", "lack-of-friendship", "lack-of-love", "love", "marriage", "unhappy-marriage"], "Mark Twain": ["books", "contentment", "friends", "friendship", "life"], "Allen Saunders": ["fate", "life", "misattributed-john-lennon", "planning", "plans"]}},
+{"page_3": {"Pablo Neruda": ["love", "poetry"], "Ralph Waldo Emerson": ["happiness"], "Mother Teresa": ["attributed-no-source"], "Garrison Keillor": ["humor", "religion"], "Jim Henson": ["humor"], "Dr. Seuss": ["comedy", "life", "yourself"], "Albert Einstein": ["imagination"], "J.K. Rowling": [], "Bob Marley": ["music"]}},
+{"page_4": {"Dr. Seuss": ["learning", "reading", "seuss"], "J.K. Rowling": ["death", "inspirational"], "Bob Marley": ["friendship"], "Mother Teresa": ["misattributed-to-mother-teresa", "paraphrased"], "Charles M. Schulz": ["chocolate", "food", "humor"], "William Nicholson": ["misattributed-to-c-s-lewis", "reading"], "Albert Einstein": ["knowledge", "learning", "understanding", "wisdom"], "Jorge Luis Borges": ["books", "library"], "George Eliot": ["inspirational"]}},
+{"page_5": {"George R.R. Martin": ["read", "readers", "reading", "reading-books"], "C.S. Lewis": ["books", "inspirational", "reading", "tea"], "Marilyn Monroe": ["attributed-no-source"], "Albert Einstein": ["life", "simile"], "Martin Luther King Jr.": ["hope", "inspirational"], "J.K. Rowling": ["dumbledore"], "James Baldwin": ["love"]}}
+]
